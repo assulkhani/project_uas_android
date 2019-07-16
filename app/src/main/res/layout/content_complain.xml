@@ -20,7 +20,7 @@
             android:layout_gravity="center"
             android:textStyle="bold"
             android:textSize="20dp"
-            android:text="Form Mahasiswa"
+            android:text="Form Pendaftaran"
             android:textColor="@android:color/holo_blue_light"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
